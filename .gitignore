@@ -10,6 +10,7 @@ themes/*
 !themes/.*
 accounts/*
 !accounts/.*
+config/security.yaml
 
 # OS Generated
 .DS_Store*
