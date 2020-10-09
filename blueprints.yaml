@@ -1,0 +1,11 @@
+name: Typhoon Blog Site
+version: 1.0.0
+description: "A **Blog Skeleton** built on top of the Tyhphoon theme that provides you with sample blog content and plugins including: **Pagination**, **Breadcrumbs**, and **Taxonomy List**."
+icon: comments
+author:
+  name: Trilby Media
+  email: hello@trilby.media
+  url: https://trilby.media
+homepage: https://getgrav.org/premium/typhoon
+keywords: blog, typhoon, tailwind, skeleton, pagination, breadcrumbs, taxonomy, archives, relatedpages
+license: Grav Premium License
