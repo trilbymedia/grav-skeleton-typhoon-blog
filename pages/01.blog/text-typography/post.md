@@ -13,9 +13,9 @@ taxonomy:
 
 The [Typhoon theme](https://getgrav.org/premium/typhoon) is powered by the [Tailwind CSS framework](https://tailwindcss.com) which is a modern utility-based CSS framework.  It provides utility classes for almost every possible CSS style element, but it also provides some basic built-in styling for for common HTML tags such as those that are output by **Markdown** content from Grav.  
 
-To make use of this built-in styling, simply ensure you content is wrapped in the `.prose` class, and let Typhoon do the rest!
-
 ===
+
+To make use of this built-in styling, simply ensure you content is wrapped in the `.prose` class, and let Typhoon do the rest!
 
 ! Details on the full capabiltiies of Tailwind CS framework can be found in the [Official Tailwind Documentation](https://tailwindcss.com/docs)
 
