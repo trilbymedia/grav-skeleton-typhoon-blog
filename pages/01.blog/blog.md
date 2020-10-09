@@ -19,8 +19,6 @@ content:
 feed:
     limit: 10
     description: 'Sample Blog Description'
-colors:
-    primary: '#00A0DE'
 header_bar:
     background: transparent
     text: light
