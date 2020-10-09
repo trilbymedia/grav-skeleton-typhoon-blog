@@ -1,6 +1,6 @@
 ---
 title: Random Thoughts
-date: 13:34 05/26/2017 
+date: 13:34 08/22/2020
 taxonomy:
     category: blog
     tag: [journal]

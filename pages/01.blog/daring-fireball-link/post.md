@@ -1,6 +1,6 @@
 ---
 title: DF Style Article Link
-date: 13:34 07/23/2017
+date: 13:34 10/08/2020
 continue_link: true
 link: http://daringfireball.net
 taxonomy:
@@ -8,7 +8,7 @@ taxonomy:
     tag: [journal, link]
 ---
 
-The blog skeleton also supports **Daring Fireball** style link posts.  Simply add a link setting in your page header:
+The Typhoon blog skeleton also supports **Daring Fireball** style link posts.  Simply add a link setting in your page header:
 
 ```
 link: http://daringfireball.net

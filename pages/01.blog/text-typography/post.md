@@ -1,6 +1,6 @@
 ---
 title: Text & Typography
-date: 13:34 07/19/2017 
+date: 16:34 10/09/2020 
 
 hero:
     image: unsplash-text.jpg
@@ -11,11 +11,15 @@ taxonomy:
     tag: [journal]
 ---
 
-The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
+The [Typhoon theme](https://getgrav.org/premium/typhoon) is powered by the [Tailwind CSS framework](https://tailwindcss.com) which is a modern utility-based CSS framework.  It provides utility classes for almost every possible CSS style element, but it also provides some basic built-in styling for for common HTML tags such as those that are output by **Markdown** content from Grav.  
+
+To make use of this built-in styling, simply ensure you content is wrapped in the `.prose` class, and let Typhoon do the rest!
 
 ===
 
-! Details on the full capabiltiies of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
+! Details on the full capabiltiies of Tailwind CS framework can be found in the [Official Tailwind Documentation](https://tailwindcss.com/docs)
+
+Here's some example markdown showing off the built-in CSS styling of the `.prose` class:
 
 
 

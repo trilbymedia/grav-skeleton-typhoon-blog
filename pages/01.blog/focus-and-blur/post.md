@@ -1,6 +1,6 @@
 ---
 title: Focus and Blur
-date: 13:34 06/21/2017 
+date: 13:34 08/23/2020 
 header_bar:
     background: dark
     text: light

@@ -1,6 +1,6 @@
 ---
 title: 'Classic Modern Architecture'
-date: '17:34 06/27/2017'
+date: 17:34 09/18/2020
 taxonomy:
     category:
         - blog
