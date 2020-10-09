@@ -22,7 +22,7 @@ feed:
 colors:
     primary: '#00A0DE'
 header_bar:
-    background: auto
+    background: transparent
     text: light
 hero:
     image: reuben-teo-fUZWpaUknyI-unsplash.jpg

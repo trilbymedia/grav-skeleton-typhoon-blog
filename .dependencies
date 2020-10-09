@@ -7,6 +7,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         branch: master
+    color-tools:
+        url: https://github.com/trilbymedia/grav-plugin-color-tools
+        path: user/plugins/color-tools
+        branch: master    
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
@@ -14,6 +18,10 @@ git:
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
+        branch: master
+    markdown-notices:
+        url: https://github.com/getgrav/grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
         branch: master
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
@@ -31,20 +39,28 @@ git:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
         branch: master    
+    shortcode-core:
+        url: https://github.com/getgrav/grav-plugin-shortcode-core
+        path: user/plugins/shortcode-core
+        branch: master
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
-        branch: master
+        branch: master    
     sitemap:
         url: https://github.com/getgrav/grav-plugin-sitemap
         path: user/plugins/sitemap
+        branch: master
+    svg-icons:
+        url: https://github.com/trilbymedia/grav-plugin-svg-icons
+        path: user/plugins/svg-icons
         branch: master
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
     typhoon:
-        url: https://github.com/getgrav/grav-theme-typhoon
+        url: https://github.com/trilbymedia/grav-theme-typhoon
         path: user/themes/typhoon
         branch: master
 links:
@@ -56,6 +72,10 @@ links:
         src: grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         scm: github
+    color-tools:
+        src: grav-plugin-color-tools
+        path: user/plugins/color-tools
+        scm: github    
     error:
         src: grav-plugin-error
         path: user/plugins/error
@@ -72,6 +92,10 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
+    markdown-notices:
+        src: grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        scm: github
     random:
         src: grav-plugin-random
         path: user/plugins/random
@@ -80,6 +104,10 @@ links:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
         scm: github    
+    shortcode-core:
+        src: grav-plugin-shortcode-core
+        path: user/plugins/shortcode-core
+        scm: github
     simplesearch:
         src: grav-plugin-simplesearch
         path: user/plugins/simplesearch
@@ -88,6 +116,10 @@ links:
         src: grav-plugin-sitemap
         path: user/plugins/sitemap
         scm: github
+    svg-icons:
+        src: grav-plugin-svg-icons
+        path: user/plugins/svg-icons
+        scm: github    
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
