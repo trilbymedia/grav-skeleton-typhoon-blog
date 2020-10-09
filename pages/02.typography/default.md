@@ -8,23 +8,18 @@ The [Typhoon theme](https://github.com/trilbymedia/grav-theme-typhoon) is a new 
 
 ### Headings
 
-# H1 Heading `40px`
+# H1 Heading `36px`
 
-## H2 Heading `32px`
+## H2 Heading `24px`
 
-### H3 Heading `28px`
+### H3 Heading `20px`
 
-#### H4 Heading `24px`
+#### H4 Heading `16px`
 
-##### H5 Heading `20px`
-
-###### H6 Heading `16px`
 
 ```html
-# H1 Heading
-# H1 Heading `40px`</small>`
-
-<span class="h1">H1 Heading</span>
+# H1 Heading `36px`
+## H2 Heading `24px`
 ```
 
 ### Paragraphs
