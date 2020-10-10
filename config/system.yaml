@@ -29,6 +29,7 @@ assets:
 
 debugger:
   enabled: false
+  provider: phpdebugbar
   twig: true
   shutdown:
     close_connection: true

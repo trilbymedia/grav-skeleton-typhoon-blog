@@ -1,4 +1,4 @@
-# Typphoon Blog Skeleton
+# Typhoon Blog Skeleton
 
 The *Typhoon Blog* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton and includes a *user* folder giving an example of a blog set up using Grav powered by the Typhoon theme.
 
