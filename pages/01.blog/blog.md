@@ -32,12 +32,6 @@ hero:
     title:
         text: 'A Gravtastic Blog'
     content: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua ad ad non deserunt sunt.'
-seo-magic:
-    keywords:
-        - germany
-        - root-blog
-    description: 'Check out my awesomeazing Grav-powered blog'
-    title: 'Awesomeazing Grav Blog'
 ---
 
 # Grav Sandbox
