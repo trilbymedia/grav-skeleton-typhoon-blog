@@ -25,3 +25,4 @@ Thumbs.db
 /config/media.yaml
 /config/scheduler.yaml
 /config/streams.yaml
+/config/versions.yaml
