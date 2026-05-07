@@ -37,7 +37,7 @@ This skeleton serves as a basic content skeleton for demonstrating a simple **bl
 11. For **Typhoon Blog** skeleton run this command to install all the themes + plugins:
 
     ```shell
-    bin/gpm install error markdown-notices problems typhoon color-tools shortcode-core svg-icons breadcrumbs feed pagination random relatedpages simplesearch taxonomylist
+    bin/gpm install archives error markdown-notices problems typhoon color-tools shortcode-core svg-icons breadcrumbs feed pagination random relatedpages simplesearch taxonomylist
     ```
 
 Your site should have everything it needs to replicate the **Typhoon Blog** skeleton site.  Please compare your local copy to the [Typhoon Blog Demo Site](https://demo.getgrav.org/typhoon/blog).

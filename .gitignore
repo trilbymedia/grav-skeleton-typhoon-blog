@@ -26,3 +26,4 @@ Thumbs.db
 /config/scheduler.yaml
 /config/streams.yaml
 /config/versions.yaml
+/config/security-private.php
